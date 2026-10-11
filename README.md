@@ -39,7 +39,7 @@ Berikut adalah tahapan konfigurasi yang saya lakukan selama praktikum:
 
 ## 🎥 Bukti Video Demonstrasi
 Rekaman video saat saya melakukan praktik dan menjalankan perintah di terminal dapat dilihat melalui tautan berikut:
-- 🔗 **[Tautan Video Dokumentasi Praktikum CentOS 7 (Google Drive)](https://drive.google.com/drive/folders/1YeendxriCsFzMg6-kraN1_9Q1kfK7YR-?usp=sharing)**
+- 🔗 **[Tautan Video Dokumentasi Praktikum CentOS 7 (Google Drive)](https://drive.google.com/drive/folders/1kDZuupRigem9OaYseD5J7vP52cpdMbxd?usp=sharing)**
 
 ---
 ## 👨‍💻 Penulis
